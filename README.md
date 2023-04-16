@@ -10,7 +10,7 @@ Pour les technologies utilise sont :
  - HTTP
  - Android Studio
  
-API utulise est : 
+API utilise est : 
  - pokedex-api : Parceque il est facile a utilise , clear et avais plusieur pokemon et plusieur detalis
 
 
